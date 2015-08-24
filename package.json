@@ -1,6 +1,6 @@
 {
   "name": "iso-app-renderer-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "View renderer for iso-app.",
   "author": "James Newell <james@digitaledgeit.com.au>",
   "main": "plugin.js",
@@ -9,7 +9,7 @@
   },
   "scripts": {},
   "browser": {
-    "lib/server.js": "lib/client.js"
+    "./lib/server.js": "./lib/client.js"
   },
   "license": "MIT"
 }
