@@ -1,10 +1,10 @@
 {
   "name": "iso-app-renderer-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "View renderer for iso-app.",
   "author": "James Newell <james@digitaledgeit.com.au>",
   "main": "plugin.js",
-  "dependencies": {
+  "devDependencies": {
     "react": "^0.13.3"
   },
   "scripts": {},
